@@ -1,0 +1,15 @@
+1. Use iter and next method to access all the elements of a given set using while loop
+2. Create a generator to produce first n odd natural numbers
+3. Create a generator to produce first n even natural numbers
+4. Create a generator to produce squares of first N natural numbers
+5. Create a generator to produce first n terms of Fibonacci series
+6. Create a generator to produce first n prime numbers
+7. Create an endless iterator using generator method to produce terms of Fibonacci
+series
+8. Create an endless iterator using generator method to produce Prime numbers
+9. Define a function which takes lengths of three sides of a triangle as arguments and
+display the perimeter or triangle. Define and apply a decorator which checks for the
+validity of the triangle on the basis of lengths of the side. This makes the perimeter to
+be displayed when the triangle can exist with the given lengths of the sides.
+10. Define a function which calculates HCF of two numbers. Define and apply a
+decorator to check whether two given numbers are co-prime or not.
